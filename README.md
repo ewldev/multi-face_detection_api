@@ -3,7 +3,7 @@ Back end of multiple faces recognition app.
 
 Created with Express.js and integrated with Clarifai's face recognition api.
 
-Connected to a Postgres database which allows user registration and log in.
+Connected to local Postgres database which allows user registration and log in.
 
 It will also keep counts and show the number of times a user has logged in.
 
